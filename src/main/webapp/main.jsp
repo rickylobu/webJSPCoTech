@@ -13,7 +13,7 @@
     </head>
     <body>
         <main class="contenedor ">
-            <h1 >Equipos Gaming</h1>
+            <h1 >Equipos más vendidos</h1>
             <div class="grid">
                 <div class="marca">
                     <img src="img/hp.webp" alt="" >
