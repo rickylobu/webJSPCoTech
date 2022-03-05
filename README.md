@@ -21,5 +21,6 @@ Páginas de usuario (Cabecera,barra de navegación , contenido principal , pie d
 Diseño de procesos (conexion a base de datos , procesos CRUD, inicio de sesión)
 
 prueba de cambio con otro usuario 
+prueba de gael 
   
 
