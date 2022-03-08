@@ -25,4 +25,10 @@ prueba de gael
 pruba de gael 2
   
 seguimos añadiendo cambios
+<<<<<<< HEAD
 Generando cambios para prueba gabril
+=======
+
+prueba Daniel 
+
+>>>>>>> 29f57376bd2cd5eae92674983d13447ff376d753
