@@ -11,20 +11,24 @@ package dominio;
 public class Departamento {
     
     private int id_departamento;
-    private String nombre_depa;
+    private String nombre;
 
     //Constructor
-    public Departamento(int id_departamento, String nombre_depa) {
+
+    public Departamento(int id_departamento, String nombre) {
         this.id_departamento = id_departamento;
-        this.nombre_depa = nombre_depa;
+        this.nombre = nombre;
     }
 
-    public Departamento() {
+    public Departamento(int id_departamento) {
+        this.id_departamento = id_departamento;
     }
 
-    public Departamento(String nombre_depa) {
-        this.nombre_depa = nombre_depa;
+    public Departamento(String nombre) {
+        this.nombre = nombre;
     }
+    
+    
     
     //Setters y getters
     public int getId_departamento() {
@@ -35,17 +39,18 @@ public class Departamento {
         this.id_departamento = id_departamento;
     }
 
-    public String getNombre_depa() {
-        return nombre_depa;
+    public String getNombre() {
+        return nombre;
     }
 
-    public void setNombre_depa(String nombre_depa) {
-        this.nombre_depa = nombre_depa;
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
     }
 
+  
     @Override
     public String toString() {
-        return "Departamento{" + "id_departamento=" + id_departamento + ", nombre_depa=" + nombre_depa + '}';
+        return "Departamento{" + "id_departamento=" + id_departamento + ", nombre_depa=" + nombre + '}';
     }
     
     
