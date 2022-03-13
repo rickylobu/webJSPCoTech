@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\datos\Conexion.java
 C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Departamento.java
 C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Usuario.java
@@ -6,3 +7,13 @@ C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Compra.
 C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Cliente.java
 C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Equipo.java
 C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Provedor.java
+=======
+C:\Users\HP\OneDrive\Escritorio\github\web\src\main\java\dominio\Usuario.java
+C:\Users\HP\OneDrive\Escritorio\github\web\src\main\java\dominio\Compra.java
+C:\Users\HP\OneDrive\Escritorio\github\web\src\main\java\dominio\Equipo.java
+C:\Users\HP\OneDrive\Escritorio\github\web\src\main\java\dominio\Cliente.java
+C:\Users\HP\OneDrive\Escritorio\github\web\src\main\java\dominio\Departamento.java
+C:\Users\HP\OneDrive\Escritorio\github\web\src\main\java\dominio\Provedor.java
+C:\Users\HP\OneDrive\Escritorio\github\web\src\main\java\datos\Conexion.java
+C:\Users\HP\OneDrive\Escritorio\github\web\src\main\java\datos\DepartamentoDaoJDBC.java
+>>>>>>> Stashed changes
