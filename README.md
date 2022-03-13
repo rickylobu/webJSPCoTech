@@ -26,7 +26,7 @@ pruba de gael 2
   
 seguimos añadiendo cambios
 <<<<<<< HEAD
-Generando cambios para prueba gabril
+Generando cambios para prueba gabriel
 =======
 
 prueba Daniel 
