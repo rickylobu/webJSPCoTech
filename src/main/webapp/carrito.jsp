@@ -23,25 +23,12 @@
     </head>
     <body>
 
-        <jsp:include page="header.jsp"></jsp:include>
+        <jsp:include page="paginas/comunes/header.jsp"></jsp:include>
+
+        <h1>PENDIENTE POR HACER</h1>
 
 
-            <form action="" class="form-inicio contenedor">
-
-                <label for="">Nombre:</label>
-                <input type="text">
-
-                <label for="">Nombre:</label>
-                <input type="number">
-
-                <label for="">Nombre:</label>
-                <input type="email">
-
-            </form>
-
-
-
-        <jsp:include page="footer.jsp"></jsp:include>
+         <jsp:include page="paginas/comunes/footer.jsp"></jsp:include>
 
     </body>
 </html>

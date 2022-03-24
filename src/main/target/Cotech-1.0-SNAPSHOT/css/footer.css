@@ -1,0 +1,25 @@
+.footer {
+    background-color: rgb(114, 114, 248);
+    margin-top: 2rem;
+    position: relative;
+    width: 100%;
+}
+
+.contenido-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.redes-sociales {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.texto-footer {
+    color: white;
+}
+.red-social {
+    height: 5rem;
+}

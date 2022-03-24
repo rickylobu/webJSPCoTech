@@ -13,11 +13,13 @@ public class Conexion {
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/tienda?useSSL=false&useTimeZone=true&serverTimeZone=UTC&allowPublicKeyRetrieval=true";
     private static final String JDBC_USER = "root";
     private static final String JDBC_PASSWORD = "1234";
+
     private static BasicDataSource dataSource;
     
    public static DataSource getDataSource(){
         if(dataSource==null){
             dataSource=new BasicDataSource();
+            
             dataSource.setUrl(JDBC_URL);
             dataSource.setUsername(JDBC_USER);
             dataSource.setPassword(JDBC_PASSWORD);

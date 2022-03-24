@@ -24,14 +24,14 @@
     </head>
     <body>
 
-        <jsp:include page="header.jsp"></jsp:include>
+        <jsp:include page="paginas/comunes/header.jsp"></jsp:include>
 
 
             <main class="contenedor ">
                 <h1 >Equipos Gaming</h1>
                 <div class="grid">
                     <div class="marca">
-                        <img src="img/laboral.png" alt="" >
+                        <img src="img/hp.webp" alt="" >
                         <p class="marca-nombre">Laptop HP 280</p>
                         <ul>
                             <li>Procesador Intel® Celeron®</li>
@@ -114,7 +114,7 @@
 
 
 
-        <jsp:include page="footer.jsp"></jsp:include>
+        <jsp:include page="paginas/comunes/footer.jsp"></jsp:include>
 
     </body>
 </html>

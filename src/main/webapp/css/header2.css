@@ -1,0 +1,148 @@
+.header2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+.titulo {
+    margin-bottom: 0;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.cerrar {
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+}
+
+/* Main */
+.main2 {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    background-color: rgb(223, 222, 222);
+}
+
+/* Menu */
+.menu {
+    background-color: black;
+    color: white;
+    padding-top: 2rem;
+    position: relative;  
+    height: 100%;  
+}
+
+.item {
+    color: white;
+    text-decoration: none;
+}
+
+.item:hover {
+    font-size: 3rem;
+    color: orange;
+}
+
+li{
+    list-style: none;
+    margin-top: 2.5rem;
+    font-size: 2.5rem;
+}
+
+/* Section */
+.tabla {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid rgb(77, 4, 247);
+    margin-top: 2rem;
+}
+
+.crud {
+    margin: 2rem 2rem 0 2rem; 
+}
+
+.botones {
+    margin: 0 auto;
+}
+.btn-editar {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: rgb(2, 160, 2);
+    border-radius: 0.5rem;
+    color: white;
+    cursor: pointer;
+    width: 8rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.btn-eliminar {
+    padding: 1rem;
+    background-color: rgb(187, 2, 2);
+    border-radius: 0.5rem;
+    color: white;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: 700;
+    width: 8rem;
+}
+
+.btn-agregar {
+    padding: 1rem;
+    background-color: rgb(68, 68, 247);
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    cursor: pointer;
+    width: 12rem;
+    margin-bottom: 2rem;
+}
+
+.titulo-tabla {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    
+}
+
+
+thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 2rem;
+    font-size: 1.5rem;
+  }
+
+ tbody tr:nth-child(odd) {
+    background-color: #adadad;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #ffffff;
+  }
+  
+  table {
+    background-color: #f5f3f4;
+  }
+  
+
+
+

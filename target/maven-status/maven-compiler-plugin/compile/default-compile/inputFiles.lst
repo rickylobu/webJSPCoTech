@@ -1,8 +1,8 @@
-C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\datos\Conexion.java
-C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Departamento.java
-C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Usuario.java
-C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\datos\DepartamentoDaoJDBC.java
-C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Compra.java
-C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Cliente.java
-C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Equipo.java
-C:\Users\Ricardo\Documents\NetBeansProjects\Cotech\src\main\java\dominio\Provedor.java
+C:\BD\src\main\java\dominio\Cliente.java
+C:\BD\src\main\java\dominio\Provedor.java
+C:\BD\src\main\java\dominio\Compra.java
+C:\BD\src\main\java\dominio\Departamento.java
+C:\BD\src\main\java\datos\DepartamentoDaoJDBC.java
+C:\BD\src\main\java\datos\Conexion.java
+C:\BD\src\main\java\dominio\Equipo.java
+C:\BD\src\main\java\dominio\Usuario.java

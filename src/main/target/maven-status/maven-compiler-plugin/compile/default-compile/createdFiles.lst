@@ -1,0 +1,8 @@
+dominio\Usuario.class
+dominio\Departamento.class
+dominio\Compra.class
+dominio\Cliente.class
+dominio\Equipo.class
+datos\Conexion.class
+datos\DepartamentoDaoJDBC.class
+dominio\Provedor.class
