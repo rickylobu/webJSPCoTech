@@ -1,0 +1,33 @@
+.header {
+    background-color: rgb(114, 114, 248);
+}
+
+.header-contenido{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+    width: 10rem;
+    height: 10rem;
+}
+
+.opcion {
+    margin-right: 1rem;
+    color: white;
+    font-size: 2rem;
+}
+
+.opcion:hover {
+    color: yellow;
+    font-size: 2.2rem;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2.2rem;
+}
+

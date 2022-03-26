@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 2 mar 2022, 17:46:25
-    Author     : Ricardo
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -29,10 +25,10 @@
         <title>COTECH</title>
     </head>
     <body>
-        <jsp:include page="header.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/header.jsp"></jsp:include>
 
-        <jsp:include page="main.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/main.jsp"></jsp:include>
 
-        <jsp:include page="footer.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/footer.jsp"></jsp:include>
     </body>
 </html>

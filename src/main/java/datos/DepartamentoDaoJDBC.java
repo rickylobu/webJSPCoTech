@@ -159,7 +159,7 @@ public class DepartamentoDaoJDBC {
 
         //PRUEBA INSERTAR
         System.out.println("******************INSERTANDO DEPARTAMENTO**************");
-        Departamento d = new Departamento("Departamento de prueba2");
+        Departamento d = new Departamento("Departamento prueba profesor");
         depto.insertar(d);
         depto.listar();
         System.out.println("Deparatamento insertado " + d);
@@ -173,7 +173,7 @@ public class DepartamentoDaoJDBC {
   
         //PRUEBA ACTUALIZAR DEPTO
         System.out.println("**********************ACTUALIZANDO DEPARTAMENTO****************");
-        Departamento d2 = new Departamento(5,"Departamento actualizado");
+        Departamento d2 = new Departamento(4,"Cambiando");
         depto.actualizar(d2);
         depto.listar();
         System.out.println("******************************************************************");

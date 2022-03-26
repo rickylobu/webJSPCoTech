@@ -24,14 +24,13 @@
     </head>
     <body>
 
-        <jsp:include page="header.jsp"></jsp:include>
-
+        <jsp:include page="WEB-INF/paginas/comunes/header.jsp"></jsp:include>
 
             <main class="contenedor ">
                 <h1 >Equipos Laboar</h1>
                 <div class="grid">
                     <div class="marca">
-                        <img src="img/laboral.png" alt="" >
+                        <img src="img/hp_laboral.webp" alt="" >
                         <p class="marca-nombre">Laptop HP 280</p>
                         <ul>
                             <li>Procesador Intel® Celeron®</li>
@@ -44,7 +43,7 @@
                         <a class="boton-carrito" href="#">Agregar al carrito</a>
                     </div>
                     <div class="marca">
-                        <img src="img/hp.webp" alt="" >
+                        <img src="img/hp_laboral.webp" alt="" >
                         <p class="marca-nombre">Laptop HP 280</p>
                         <ul>
                             <li>Procesador Intel® Celeron®</li>
@@ -57,7 +56,7 @@
                         <a class="boton-carrito" href="#">Agregar al carrito</a>
                     </div>
                     <div class="marca">
-                        <img src="img/hp.webp" alt="" >
+                        <img src="img/hp_laboral.webp" alt="" >
                         <p class="marca-nombre">Laptop HP 280</p>
                         <ul>
                             <li>Procesador Intel® Celeron®</li>
@@ -70,7 +69,7 @@
                         <a class="boton-carrito" href="#">Agregar al carrito</a>
                     </div>
                     <div class="marca">
-                        <img src="img/hp.webp" alt="" >
+                        <img src="img/hp_laboral.webp" alt="" >
                         <p class="marca-nombre">Laptop HP 280</p>
                         <ul>
                             <li>Procesador Intel® Celeron®</li>
@@ -83,7 +82,7 @@
                         <a class="boton-carrito" href="#">Agregar al carrito</a>
                     </div>
                     <div class="marca">
-                        <img src="img/hp.webp" alt="" >
+                        <img src="img/hp_laboral.webp" alt="" >
                         <p class="marca-nombre">Laptop HP 280</p>
                         <ul>
                             <li>Procesador Intel® Celeron®</li>
@@ -95,8 +94,8 @@
                         <p class="precio" >$15,000.00</p>
                         <a class="boton-carrito" href="#">Agregar al carrito</a>
                     </div>
-                    <div class="marca">
-                        <img src="img/hp.webp" alt="" >
+                     <div class="marca">
+                        <img src="img/hp_laboral.webp" alt="" >
                         <p class="marca-nombre">Laptop HP 280</p>
                         <ul>
                             <li>Procesador Intel® Celeron®</li>
@@ -114,7 +113,8 @@
 
 
 
-        <jsp:include page="footer.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/footer.jsp"></jsp:include>
+
 
     </body>
 </html>
