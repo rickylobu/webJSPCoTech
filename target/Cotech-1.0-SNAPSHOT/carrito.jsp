@@ -23,12 +23,12 @@
     </head>
     <body>
 
-        <jsp:include page="paginas/comunes/header.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/header.jsp"></jsp:include>
 
         <h1>PENDIENTE POR HACER</h1>
 
 
-         <jsp:include page="paginas/comunes/footer.jsp"></jsp:include>
+         <jsp:include page="WEB-INF/paginas/comunes/footer.jsp"></jsp:include>
 
     </body>
 </html>

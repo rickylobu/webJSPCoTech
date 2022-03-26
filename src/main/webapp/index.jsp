@@ -25,10 +25,10 @@
         <title>COTECH</title>
     </head>
     <body>
-        <jsp:include page="paginas/comunes/header.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/header.jsp"></jsp:include>
 
-        <jsp:include page="paginas/comunes/main.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/main.jsp"></jsp:include>
 
-        <jsp:include page="paginas/comunes/footer.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/footer.jsp"></jsp:include>
     </body>
 </html>

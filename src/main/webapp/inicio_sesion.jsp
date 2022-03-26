@@ -23,10 +23,10 @@
     </head>
     <body>
 
-       <jsp:include page="paginas/comunes/header.jsp"></jsp:include>
+       <jsp:include page="WEB-INF/paginas/comunes/header.jsp"></jsp:include>
 
        
-       <h2>Falta por hacer inicio Seción</h2>
+       <h2>Falta por hacer inicio Seciï¿½n</h2>
 
 
             <form action="" class="form-inicio contenedor">
@@ -44,7 +44,7 @@
 
 
 
-        <jsp:include page="paginas/comunes/footer.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/footer.jsp"></jsp:include>
 
     </body>
 </html>

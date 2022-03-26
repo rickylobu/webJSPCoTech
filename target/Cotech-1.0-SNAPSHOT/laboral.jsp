@@ -24,7 +24,7 @@
     </head>
     <body>
 
-        <jsp:include page="paginas/comunes/header.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/header.jsp"></jsp:include>
 
             <main class="contenedor ">
                 <h1 >Equipos Laboar</h1>
@@ -113,7 +113,7 @@
 
 
 
-        <jsp:include page="paginas/comunes/footer.jsp"></jsp:include>
+        <jsp:include page="WEB-INF/paginas/comunes/footer.jsp"></jsp:include>
 
 
     </body>
