@@ -12,15 +12,13 @@ import java.util.*;
  */
 public class Compra {
     private int id_compra;
-    private String mombre_producto;
-    private int cantidad;
+    private int id_usuario;
     private double total;
     private Date fecha;
 
-    public Compra(int id_compra, String mombre_producto, int cantidad, double total, Date fecha) {
+    public Compra(int id_compra, int id_usuario, double total, Date fecha) {
         this.id_compra = id_compra;
-        this.mombre_producto = mombre_producto;
-        this.cantidad = cantidad;
+        this.id_usuario = id_usuario;
         this.total = total;
         this.fecha = fecha;
     }
@@ -33,20 +31,12 @@ public class Compra {
         this.id_compra = id_compra;
     }
 
-    public String getMombre_producto() {
-        return mombre_producto;
+    public int getId_usuario() {
+        return id_usuario;
     }
 
-    public void setMombre_producto(String mombre_producto) {
-        this.mombre_producto = mombre_producto;
-    }
-
-    public int getCantidad() {
-        return cantidad;
-    }
-
-    public void setCantidad(int cantidad) {
-        this.cantidad = cantidad;
+    public void setId_usuario(int id_usuario) {
+        this.id_usuario = id_usuario;
     }
 
     public double getTotal() {
@@ -64,7 +54,8 @@ public class Compra {
     public void setFecha(Date fecha) {
         this.fecha = fecha;
     }
-    
+
+        
     
     
     
